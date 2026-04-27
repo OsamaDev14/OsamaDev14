@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Osama
+### Backend Java Developer
 
-<!--
-**OsamaDev14/OsamaDev14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning: Spring Boot, Hibernate, REST APIs  
+- 💻 Tech Stack: Java, Spring, MySQL, PostgreSQL  
+- 🚀 Projects: Merchant Product Management System  
+- 📫 Email: osama24mca@gmail.com  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+Java | Spring Boot | Hibernate | MySQL | PostgreSQL | Maven | Postman | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🛒 Merchant Product Management System
+- ⚡ Electricity Billing System  
