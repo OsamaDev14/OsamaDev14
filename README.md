@@ -1,23 +1,18 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">Backend Java Developer</h3>
 
-<!-- 🔥 Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
----
+<!-- Right side image -->
+<img align="right" alt="coding" width="350" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Currently learning: **Spring Boot, Hibernate, REST APIs**
-- 💻 Tech Stack: Java, Spring, MySQL, PostgreSQL 
+- 💻 Tech Stack: Java, Spring, MySQL, PostgreSQL  
 - 🚀 Projects: Merchant Product Management System  
-- 📫 How to reach me: **osama24mca@gmail.com**
-- 👯 Looking to collaborate on: **Java Backend Projects**
-- 🤝 Looking for help with: **Building real-world backend systems**
-- 👨‍💻 All projects: https://github.com/OsamaDev14
+- 📫 How to reach me: **osama24mca@gmail.com**  
+- 👯 Looking to collaborate on: **Java Backend Projects**  
+- 🤝 Looking for help with: **Real-world backend systems**  
+- 👨‍💻 All projects: https://github.com/OsamaDev14  
 - 💬 Ask me about: **Java, Spring Boot, Hibernate, MySQL**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
