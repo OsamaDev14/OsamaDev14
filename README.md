@@ -7,10 +7,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Currently learning: **Spring Boot, Hibernate, REST APIs**
 - 💻 Tech Stack: Java, Spring, MySQL, PostgreSQL  
-- 🚀 Projects: Merchant Product Management System  
 - 📫 How to reach me: **osama24mca@gmail.com**  
-- 👯 Looking to collaborate on: **Java Backend Projects**  
-- 🤝 Looking for help with: **Real-world backend systems**  
+- 💼 Looking for: **Java Backend Developer / Support Engineer Role**
+- 🤝 Open to: **Backend Projects & Collaboration*
 - 👨‍💻 All projects: https://github.com/OsamaDev14  
 - 💬 Ask me about: **Java, Spring Boot, Hibernate, MySQL**
 
@@ -23,19 +22,60 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</p>
+## 💻 Tech Stack:</h2>
+
+### 🎨 Frontend Stack:</h3>
+
+<div align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
+</div>
+
+<h3 align="left">⚙️ Backend Stack</h3>
+
+<div align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java logo" />
+ <img width="12" />
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="spring logo" />
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo" />
+</div>
+
+###
+
+<h3 align="left">🛢️ Database:</h3>
+
+<div align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"     alt="oracle logo" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+ <img width="12" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
+ <img width="12" />
+</div>
+
+<h3 align="left">🧰 Tools & IDE:</h3>
+
+<div align="left">
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
+ <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+</div>
+
+<h3 align="left">🚀 Server:</h3>
+
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo" />
+</div>
 
 ---
 
